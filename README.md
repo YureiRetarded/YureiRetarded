@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @YureiRetarded
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning myself
-- 💞️ I’m looking to collaborate on a good company
 - 📫 How to reach me zaq22022015@gmail.com
+- - 👀 You don't need to know more about me
 
 <!---
 YureiRetarded/YureiRetarded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
